@@ -1,0 +1,9 @@
+{
+  "api_key": "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",
+  "model": "gpt-3.5-turbo-0301",
+  "max_tokens": 512,
+  "temperature": 0.9,
+  "top_p": 1,
+  "frequency_penalty": 0.0,
+  "presence_penalty": 0.6
+}
